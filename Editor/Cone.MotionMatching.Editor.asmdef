@@ -1,0 +1,19 @@
+{
+	"name": "Cone.MotionMatching.Editor",
+	"references": [
+		"GUID:27eb1ef27db8406ab61f3b4490cbffa5",
+		"GUID:d8b63aba1907145bea998dd612889d6b",
+		"GUID:329b4ccd385744985bf3f83cfd77dfe7",
+		"GUID:2665a8d13d1b3f18800f46e256720795",
+		"GUID:e0cd26848372d4e5c891c569017e11f1"
+	],
+	"includePlatforms": [],
+	"excludePlatforms": [],
+	"allowUnsafeCode": false,
+	"overrideReferences": false,
+	"precompiledReferences": [],
+	"autoReferenced": true,
+	"defineConstraints": [],
+	"versionDefines": [],
+	"noEngineReferences": false
+}
