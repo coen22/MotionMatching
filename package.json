@@ -1,0 +1,21 @@
+{
+  "name": "com.cone.motionmatching",
+  "displayName":"Motion Matching",
+  "version": "1.0.9",
+  "author": "Coen Hacking",
+  "unity": "2023.2",
+  "keywords": ["motion", "animation", "matching", "automation"],
+  "category": "engineering",
+  "license": "LICENSE",
+  "description": "Provide a motion matching sample based on MotionMatchingByDreaw",
+  "documentationUrl": "https://github.com/coen22/MotionMatching/blob/main/README.md",
+  "samples":[
+    {
+      "displayName": "Demo Scene",
+      "description": "UDP Demo",
+      "path": "~Demo"
+    }
+  ],
+  "dependencies": {
+  }
+}
